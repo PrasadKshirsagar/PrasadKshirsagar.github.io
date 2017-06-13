@@ -24,11 +24,12 @@
  
   #title {
        text-align: center;
+	float:center;  
     
     width: 500px;
     padding: 1px;
     border: 2px solid gray;
-    margin-left: 390px;
+   
     margin-top: 10px;
 
 }
